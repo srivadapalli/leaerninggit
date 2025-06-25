@@ -1,4 +1,4 @@
-# leaerninggit
+# learningit
 install git on your machine
 check whether git installed 
 cmd -> git 
